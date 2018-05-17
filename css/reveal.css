@@ -1267,3 +1267,9 @@ body {
   .block .plain {
     width: 50%;
     border-radius: 50%; }
+
+.small {
+  font-size: 80% !important; }
+
+.img-overlay {
+  position: absolute !important; }
