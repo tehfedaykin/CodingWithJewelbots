@@ -8,10 +8,10 @@ void setup() {
 
 void loop() {
 
-  if (see_green_friends()) {
+  if (see_red_friends()) {
     animation.rainbows();
     timer.pause(500);
-    led.turn_on_all(GREEN);
+    led.turn_on_all(RED);
     timer.pause(4000);
   }
 }

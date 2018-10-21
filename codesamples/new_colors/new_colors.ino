@@ -4,7 +4,6 @@ void setup() {
 }
 
 LED led;
-Animation animation;
 Timer timer;
 
 void loop() {
